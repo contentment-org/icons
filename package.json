@@ -1,12 +1,12 @@
 {
   "name": "@contentment-org/icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Icons for contentment foundation",
   "main": "index.js",
   "repository": "https://github.com/contentment-org/icons.git",
   "author": "Lakhan Samani <lakhan.m.samani@gmail.com>",
   "license": "MIT",
-  "files": [
-    "lib/"
-  ]
+  "dependencies": {
+    "react-native-web": "^0.11.4"
+  }
 }
