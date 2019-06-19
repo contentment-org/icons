@@ -1,0 +1,12 @@
+{
+  "name": "@contentment-org/icons",
+  "version": "1.0.0",
+  "description": "Icons for contentment foundation",
+  "main": "index.js",
+  "repository": "https://github.com/contentment-org/icons.git",
+  "author": "Lakhan Samani <lakhan.m.samani@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "lib/"
+  ]
+}
