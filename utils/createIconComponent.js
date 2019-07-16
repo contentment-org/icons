@@ -12,9 +12,9 @@ var _extends = Object.assign || function(target) {
   }
   return target;
 };
-var _createElement = require('react-native-web/dist/exports/createElement');
+var _createElement = require('react-native-web/dist/cjs/exports/createElement');
 var _createElement2 = _interopRequireDefault(_createElement);
-var _StyleSheet = require('react-native-web/dist/exports/StyleSheet');
+var _StyleSheet = require('react-native-web/dist/cjs/exports/StyleSheet');
 var _StyleSheet2 = _interopRequireDefault(_StyleSheet);
 var _react = require('react');
 var _react2 = _interopRequireDefault(_react);
